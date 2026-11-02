@@ -1,0 +1,17 @@
+[project]
+name = "beam-autoeffort"
+version = "0.1.0"
+description = "Drop-in reasoning-effort picker for Reflection's Beam on any OpenAI-compatible client"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["beam_autoeffort"]
+
+[tool.setuptools.package-data]
+beam_autoeffort = ["policy.json"]

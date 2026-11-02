@@ -1,0 +1,4 @@
+gradio[oauth]
+plotly
+pandas
+openai

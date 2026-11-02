@@ -1,0 +1,10 @@
+openai>=1.50
+huggingface_hub
+pandas
+pyarrow
+plotly
+gradio
+python-dotenv
+tqdm
+sympy
+jsonschema

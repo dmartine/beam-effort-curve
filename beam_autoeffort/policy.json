@@ -1,0 +1,10 @@
+{
+  "provisional": false,
+  "tolerance": 0.03,
+  "policy": {
+    "code": "low",
+    "reasoning": "high",
+    "structured": "low",
+    "tools": "low"
+  }
+}
